@@ -1,11 +1,11 @@
 :root {
-    --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --text-color: #f7c8dc;
+    --card-front-color: #d61094;
+    --card-back-color: #ffb18d;
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: url('img/Fundo-flor.webp');
     font-family: Bai Jamjuree;
 }
 
