@@ -20,4 +20,11 @@ criaCartao(
     'Geografia',
     'Qual é a capital do Brasil',
     'A capital do Brasil é Brasília'
+    
+)
+criaCartao(
+    'Geografia',
+    'Qual é a capital de Santa Catarina?',
+    'A capital de Santa Catarina é Florianópolis'
+    
 )
