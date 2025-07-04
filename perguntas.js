@@ -28,3 +28,31 @@ criaCartao(
     'A capital de Santa Catarina é Florianópolis'
     
 )
+
+criaCartao(
+    'Biologia',
+    'Qual animal faz miau?',
+    'O gato'
+    
+)
+
+criaCartao(
+    'Química',
+    'Qual é o oposto de quente?',
+    'Frio'
+    
+)
+
+criaCartao(
+    'Geografia',
+    'Em que planeta vivemos?',
+    'Terra'
+    
+)
+
+criaCartao(
+    'Biologia',
+    'Qual animal tem uma tromba?',
+    'Elefante'
+    
+)
